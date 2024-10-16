@@ -1,0 +1,14 @@
+.container {
+    margin-top: 5rem;
+    padding: 0.5rem;
+    width: 800px;
+  }
+  
+  .form-control {
+    margin-bottom: 1rem;
+  }
+  
+  .btn-primary {
+    font-size: 1.2rem;
+  }
+  

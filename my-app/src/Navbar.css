@@ -1,0 +1,33 @@
+.contain{
+    display: flex;
+    font-size: 20px;
+    max-height: 5rem;
+    background-color: blue;
+    justify-content: space-between;
+    padding: 0.5rem;
+}
+.user-content{
+ 
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    width: 20%;
+    border-radius: 50%;
+}
+.email{
+    font-size: 20px;
+    padding-left: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.btn btn-primary{
+    max-width: 10px;
+    max-height: 1rem;
+    text-align: center;
+}
+.name{
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+}
