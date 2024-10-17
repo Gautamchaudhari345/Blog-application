@@ -1,0 +1,44 @@
+button {
+    border: none;
+    padding: 0;
+    background: none;
+    cursor: pointer;
+  }
+  
+  /* Style the login container */
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Style the login button */
+  .login-button {
+    background-color: #fbfeff;
+    color: rgb(255, 2, 2);
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 35px;
+    font-weight: bold;
+    border: 2px solid #4285F4;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Style the Google logo */
+  .google-logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  /* Hover effect */
+  .login-button:hover {
+    background-color: hsl(176, 100%, 97%);
+    border-color: #81ff0b;
+    color: rgb(255, 2, 2);
+  }
+  
